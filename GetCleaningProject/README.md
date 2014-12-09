@@ -1,11 +1,19 @@
 **some explains to the *run_analysis.R***
 
-read the origin files to R, by *readLine* commands
-trim the leading tailing and repeated middle spaces, if any
-read it to a table format *by sep=""* 
-combine the tables
-select only required columns
-do lookup works with SQL command
-make it to tidy table with *tidyr*
-summarize the results with *dplyr*
-write to table
+<ol>read the origin files to R, by *readLine* commands
+
+<ol>trim the leading tailing and repeated middle spaces, if any
+
+<ol>read it to a table format *by sep=""*
+
+<ol>combine the tables
+
+<ol>select only required columns
+
+<ol>do lookup works with SQL command
+
+<ol>make it to tidy table with *tidyr*
+
+<ol>summarize the results with *dplyr*
+
+<ol>write to table
